@@ -138,7 +138,7 @@ class Home extends Component {
                   color="textPrimary"
                   style={{ fontWeight: 200 }}
                 >
-                  What is COVID-19
+                  What is CoviDB?
                 </Typography>
                 <Box m={2} />
                 <Typography
@@ -147,13 +147,10 @@ class Home extends Component {
                   color="textPrimary"
                   paragraph
                 >
-                  Coronavirus disease (COVID-19) is an infectious disease caused
-                  by a new virus. The disease causes respiratory illness (like
-                  the flu) with symptoms such as a cough, fever, and in more
-                  severe cases, difficulty breathing. You can protect yourself
-                  by washing your hands frequently, avoiding touching your face,
-                  and avoiding close contact (1 meter or 3 feet) with people who
-                  are unwell.
+                  CoviDB is a centralized, constantly updated, community-edited website
+                  organizing resources across a comprehensive set of topics relating to 
+                  COVID-19 for public use. The site is curated by Stanford medical experts 
+                  and students from community submissions. 
                 </Typography>
               </Paper>
             </Grid>
